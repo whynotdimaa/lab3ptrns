@@ -1,0 +1,1 @@
+{"id": 1, "coordinates": [50.4501, 30.5234], "ships": [{"id": 101, "max_weight": 10000, "fuel_level": 10, "max_fuel": 200, "containers": [{"type": "RefrigeratedContainer", "id": 6, "weight": 3320}]}]}
